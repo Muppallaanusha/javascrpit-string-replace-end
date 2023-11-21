@@ -1,0 +1,1 @@
+# javascrpit-string-replace-end
